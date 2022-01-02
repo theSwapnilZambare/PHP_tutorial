@@ -1,7 +1,5 @@
 <?php
-
 	// To print any statement use echo in php
-
 	/*	
 	echo :
 
@@ -11,12 +9,10 @@
 	
 	*/
 	
-	
    echo "Welcome to PHP Tutorial by Swapnil"; // normal line print
 
    echo "<br>"; // break tag
 
    echo '<h2>This is Html heading tag h2 example.</h2>'; // html tag used in php echo
 
-   
 ?>
