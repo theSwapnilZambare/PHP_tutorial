@@ -3,7 +3,7 @@
 
 ##  <a href="https://theswapnilzambare.github.io/PHP_tutorial">Index of / PHP Tutorial</a>
 
-- <a href="https://theswapnilzambare.github.io/PHP_tutorial/php_basic/01_echo.php" target="_blank">01_echo.php</a>
+- <a href="https://github.com/theSwapnilZambare/PHP_tutorial/blob/main/php_basic/01_echo.php" target="_blank">01_echo.php</a>
 
 
 
