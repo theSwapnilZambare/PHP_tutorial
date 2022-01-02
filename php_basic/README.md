@@ -1,7 +1,13 @@
 # PHP tutorial
 
+
+##  <a href="https://theswapnilzambare.github.io/PHP_tutorial">Index of / PHP Tutorial</a>
+
 - <a href="https://theswapnilzambare.github.io/PHP_tutorial/php_basic/01_echo.php" target="_blank">01_echo.php</a>
 
+
+
+-
 
 <hr style="border-top: 2px dotted red;">
 
