@@ -3,7 +3,7 @@
 
 ## My Repositories :
 
-- <a href="https://theswapnilzambare.github.io/PHP_tutorial/php_basic/">PHP Basic tutorial</a>
+- <a href="https://theswapnilzambare.github.io/PHP_tutorial/php_basic/">PHP Basic tutorial</a> 
 
 
 <hr style="border-top: 2px dotted red;">
@@ -51,4 +51,4 @@ source: <a href="https://www.w3schools.com/php/" target="_blank">https://www.w3s
 <hr style="border-top: 2px dotted red;">
 
 
-## <a href="https://theswapnilzambare.github.io/PHP_tutorial/" target="_blank">https://theSwapnilZambare.github.io/PHP_tutorial</a>
+## <a href="https://github.com/theSwapnilZambare/PHP_tutorial" target="_blank">https://github.com/theSwapnilZambare/PHP_tutorial</a>
