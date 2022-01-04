@@ -174,4 +174,33 @@ echo $subjects[2];
 echo "<br>";
 print_r($subjects);
 */
+
+
+/*
+   $users = ["user1", "user2", "user3", "user4"];
+
+   echo $users[1];
+
+   echo count($users);
+
+   $age = ['user1' => 33, 'user2' => 22, 'user3' => 32];
+
+   echo $age['user2'];
+
+   foreach ($age as $key => $value) {
+   	echo "my name is: " . $key . " my age is: " . $value;
+   	echo "<br>";  
+   }
+
+  $mutli = array(
+   array('php','java','javascript'),
+   array('laravel', 'symfony', 'nodejs'),
+   array('mysql','mongodb','couchdb')
+  );
+
+  echo $mutli[2][1];
+
+*/
+
+
 ?>
