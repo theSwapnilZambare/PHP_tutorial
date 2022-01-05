@@ -9,6 +9,9 @@
 
 - <a href="https://github.com/theSwapnilZambare/PHP_tutorial/blob/main/php_basic/03_vars.php" target="_blank">03_vars.php</a>
 
+- <a href="https://github.com/theSwapnilZambare/PHP_tutorial/blob/main/php_basic/04_constants.php" target="_blank">04_constants.php</a>
+
+
 
 
 
