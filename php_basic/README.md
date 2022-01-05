@@ -5,6 +5,8 @@
 
 - <a href="https://github.com/theSwapnilZambare/PHP_tutorial/blob/main/php_basic/01_echo.php" target="_blank">01_echo.php</a>
 
+- <a href="https://github.com/theSwapnilZambare/PHP_tutorial/blob/main/php_basic/02_print.php" target="_blank">02_print.php</a>
+
 
 
 
