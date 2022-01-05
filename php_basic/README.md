@@ -11,6 +11,8 @@
 
 - <a href="https://github.com/theSwapnilZambare/PHP_tutorial/blob/main/php_basic/04_constants.php" target="_blank">04_constants.php</a>
 
+- <a href="https://github.com/theSwapnilZambare/PHP_tutorial/blob/main/php_basic/05_comments.php" target="_blank">05_comments.php</a>
+
 
 
 
