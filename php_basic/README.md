@@ -15,6 +15,8 @@
 
 - <a href="https://github.com/theSwapnilZambare/PHP_tutorial/blob/main/php_basic/06_single_vs_double_quotes.php" target="_blank">06_single_vs_double_quotes.php</a>
 
+- <a href="https://github.com/theSwapnilZambare/PHP_tutorial/blob/main/php_basic/07_integers.php" target="_blank">07_integers.php</a>
+
 
 
 
