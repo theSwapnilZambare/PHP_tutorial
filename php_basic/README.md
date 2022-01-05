@@ -7,6 +7,8 @@
 
 - <a href="https://github.com/theSwapnilZambare/PHP_tutorial/blob/main/php_basic/02_print.php" target="_blank">02_print.php</a>
 
+- <a href="https://github.com/theSwapnilZambare/PHP_tutorial/blob/main/php_basic/03_vars.php" target="_blank">03_vars.php</a>
+
 
 
 
