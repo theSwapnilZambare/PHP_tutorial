@@ -25,7 +25,7 @@
 
 - <a href="https://github.com/theSwapnilZambare/PHP_tutorial/blob/main/php_basic/11_null.php" target="_blank">11_null.php</a>
 
-- <a href="https://github.com/theSwapnilZambare/PHP_tutorial/blob/main/php_basic/11_null.php" target="_blank">11_null.php</a>
+- <a href="https://github.com/theSwapnilZambare/PHP_tutorial/blob/main/php_basic/12_operators.php" target="_blank">12_operators.php</a>
 
 
 
