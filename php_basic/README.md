@@ -21,7 +21,7 @@
 
 - <a href="https://github.com/theSwapnilZambare/PHP_tutorial/blob/main/php_basic/09_boolens.php" target="_blank">09_boolens.php</a>
 
-- <a href="https://github.com/theSwapnilZambare/PHP_tutorial/blob/main/php_basic/09_boolens.php" target="_blank">09_boolens.php</a>
+- <a href="https://github.com/theSwapnilZambare/PHP_tutorial/blob/main/php_basic/10_strings.php" target="_blank">10_strings.php</a>
 
 
 
