@@ -33,6 +33,10 @@
 
 - <a href="https://github.com/theSwapnilZambare/PHP_tutorial/blob/main/php_basic/15_array.php" target="_blank">15_array.php</a>
 
+- <a href="https://github.com/theSwapnilZambare/PHP_tutorial/blob/main/php_basic/16_functions.php" target="_blank">16_functions.php</a>
+
+
+
 
 
 
