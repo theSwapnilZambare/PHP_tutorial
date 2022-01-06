@@ -17,6 +17,10 @@
 
 - <a href="https://github.com/theSwapnilZambare/PHP_tutorial/blob/main/php_basic/07_integers.php" target="_blank">07_integers.php</a>
 
+- <a href="https://github.com/theSwapnilZambare/PHP_tutorial/blob/main/php_basic/08_floats.php" target="_blank">08_floats.php</a>
+
+- <a href="https://github.com/theSwapnilZambare/PHP_tutorial/blob/main/php_basic/08_floats.php" target="_blank">08_floats.php</a>
+
 
 
 
