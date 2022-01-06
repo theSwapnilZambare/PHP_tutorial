@@ -27,6 +27,8 @@
 
 - <a href="https://github.com/theSwapnilZambare/PHP_tutorial/blob/main/php_basic/12_operators.php" target="_blank">12_operators.php</a>
 
+- <a href="https://github.com/theSwapnilZambare/PHP_tutorial/blob/main/php_basic/13_states.php" target="_blank">13_states.php</a>
+
 
 
 
