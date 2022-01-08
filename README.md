@@ -60,6 +60,8 @@
 
 -  <a href="https://phalcon.io/en-us" target="_blank">Phalcon</a>
 
+-  <a href="https://fuelphp.com/" target="_blank">Fuel PHP</a>
+
 
 
 
