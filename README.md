@@ -46,21 +46,21 @@
 
 
 ## PHP Frameworks :
--  <a href="https://laravel.com/" target="_blank">Laravel</a>
+-  <a href="https://laravel.com/" target="_blank">Laravel framework</a>
 
--  <a href="https://codeigniter.com/" target="_blank">Codeigniter</a>
+-  <a href="https://codeigniter.com/" target="_blank">Codeigniter framework</a>
 
--  <a href="https://framework.zend.com/" target="_blank">Zend (Laminas Project)</a>
+-  <a href="https://framework.zend.com/" target="_blank">Zend (Laminas Project) framework</a>
 
--  <a href="https://symfony.com/" target="_blank">Symfony</a>
+-  <a href="https://symfony.com/" target="_blank">Symfony framework</a>
 
--  <a href="https://cakephp.org/" target="_blank">CakePHP</a>
+-  <a href="https://cakephp.org/" target="_blank">Cake PHP framework</a>
 
 -  <a href="https://www.yiiframework.com/" target="_blank">Yii framework</a>
 
--  <a href="https://phalcon.io/en-us" target="_blank">Phalcon</a>
+-  <a href="https://phalcon.io/en-us" target="_blank">Phalcon framework</a>
 
--  <a href="https://fuelphp.com/" target="_blank">Fuel PHP</a>
+-  <a href="https://fuelphp.com/" target="_blank">Fuel PHP framework</a>
 
 -  <a href="https://www.slimframework.com/" target="_blank">Slim framework</a>
 
