@@ -62,6 +62,8 @@
 
 -  <a href="https://fuelphp.com/" target="_blank">Fuel PHP</a>
 
+-  <a href="https://www.slimframework.com/" target="_blank">Slim framework</a>
+
 
 
 
