@@ -72,4 +72,4 @@
 <hr style="border-top: 2px dotted red;">
 
 
-## <a href="https://github.com/theSwapnilZambare/PHP_tutorial" target="_blank">https://github.com/theSwapnilZambare/PHP_tutorial</a>
+## <a href="https://theswapnilzambare.github.io/PHP_tutorial/" target="_blank">https://theswapnilzambare.github.io/PHP_tutorial/</a>
