@@ -50,7 +50,7 @@
 
 -  <a href="https://codeigniter.com/" target="_blank">Codeigniter</a>
 
--  <a href="https://framework.zend.com/" target="_blank">Zend</a>
+-  <a href="https://framework.zend.com/" target="_blank">Zend (Laminas Project)</a>
 
 -  <a href="https://symfony.com/" target="_blank">Symfony</a>
 
