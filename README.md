@@ -64,6 +64,7 @@
 
 -  <a href="https://www.slimframework.com/" target="_blank">Slim framework</a>
 
+-  <a href="https://phpixie.com/" target="_blank">Phpixie framework</a>
 
 
 
