@@ -47,8 +47,12 @@
 
 ## PHP Frameworks :
 -  <a href="https://laravel.com/" target="_blank">Laravel</a>
--  
+
 -  <a href="https://codeigniter.com/" target="_blank">Codeigniter</a>
+
+-  <a href="https://framework.zend.com/" target="_blank">Zend</a>
+
+-  <a href="https://symfony.com/" target="_blank">Symfony</a>
 
 
 
